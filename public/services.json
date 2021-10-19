@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "EMERGENCY CARE",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum recusandae asperiores laudantium amet voluptate nam earum odio eum non soluta.",
+        "img": "https://i.ibb.co/myzNR2C/service1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "OPERATION THEATER",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum recusandae asperiores laudantium amet voluptate nam earum odio eum non soluta.",
+        "img": "https://i.ibb.co/BC91yrx/Surgeons-adjusting-oxygen-mask-on-patient-mouth-in-operation-theater-of-hospital.jpg"
+    },
+    {
+        "id": 3,
+        "name": "OUTDOOR CHECKUP",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum recusandae asperiores laudantium amet voluptate nam earum odio eum non soluta.",
+        "img": "https://i.ibb.co/wpBghmc/young-male-psysician-with-patient-measuring-blood-pressure-1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "CANCER SERVICE",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum recusandae asperiores laudantium amet voluptate nam earum odio eum non soluta.",
+        "img": "https://i.ibb.co/d5BhDYN/Physician-consulting-his-patient-at-clinic.jpg"
+    },
+    {
+        "id": 5,
+        "name": "BLOOD TEST",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum recusandae asperiores laudantium amet voluptate nam earum odio eum non soluta.",
+        "img": "https://i.ibb.co/dMVnvBs/service-5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "PHARMACY",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum recusandae asperiores laudantium amet voluptate nam earum odio eum non soluta.",
+        "img": "https://i.ibb.co/x7y7xQH/service-6.jpg"
+    }
+]

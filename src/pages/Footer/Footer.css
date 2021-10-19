@@ -1,0 +1,14 @@
+.footer{
+    background-image: url('https://educator.qodeinteractive.com/wp-content/uploads/2017/07/h3-footer-image.jpg');
+    background-repeat: no-repeat;
+}
+.footer-extra{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.footer div {
+    color: #fff;
+}
+.footer small{
+    color: #dedede;
+}
