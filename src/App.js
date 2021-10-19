@@ -23,14 +23,16 @@ function App() {
             <Route path="/home">
               <Home></Home>
             </Route>
+
             <Route path="/login">
               <Login></Login>
             </Route>
+
             <PrivateRoute path="/details/:doctorId">
               <Detail></Detail>
             </PrivateRoute>
 
-            <Route exact path="*">
+            <Route path="*">
               <NotFound></NotFound>
             </Route>
           </Switch>

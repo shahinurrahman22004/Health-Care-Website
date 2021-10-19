@@ -1,6 +1,5 @@
 import React from 'react';
 import { useParams } from 'react-router';
-import useAuth from '../../hooks/useAuth';
 
 const Detail = () => {
     const {doctorId} = useParams();
